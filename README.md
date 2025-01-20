@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I am a passionate **Full Stack Web Developer** and an aspiring **Competitive Programmer** currently pursuing a **Bachelor of Science in Computer Science & Engineering**. I am dedicated to leveraging my skills in web development and programming to create impactful solutions and continually improve through competitive programming challenges.
 
-![Banner Image](https://www.w3schools.com/w3images/fjords.jpg)
 
 ---
 
@@ -11,9 +10,9 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Web Developer** and
 Feel free to reach out to me for collaborations, job opportunities, or technical discussions:
 
 - **Email**: [shafayetullah200119@gmail.com](mailto:shafayetullah200119@gmail.com)
-- **LinkedIn**: [Shafayet Ullah Ramim](https://linkedin.com/in/md-ramim)
-- **Website**: [www.ramimdev.com](https://www.ramimdev.com)
-- **Twitter**: [@ramim2219](https://twitter.com/ramim2219)
+- **LinkedIn**: [Shafayet Ullah Ramim](https://www.linkedin.com/in/md-ramim-05976a237/)
+- **Website**: [www.ramimdev.com]()
+- **Twitter**: [@ramim2219](https://x.com/2219Ramim69667)
 
 ---
 
@@ -79,10 +78,10 @@ I have gained comprehensive knowledge in both theoretical computer science and h
 
 I am an active participant in online coding challenges and problem-solving competitions. Here are my profiles on competitive programming platforms:
 
-- **Codeforces**: [ramim1234](https://codeforces.com/profile/ramim1234)
+- **Codeforces**: [Ramim1234](https://codeforces.com/profile/Ramim1234)
 - **CodeChef**: [ramim1234](https://www.codechef.com/users/ramim1234)
-- **LeetCode**: [ramim1234](https://leetcode.com/ramim1234)
-- **HackerRank**: [2219_ramim](https://www.hackerrank.com/2219_ramim)
+- **LeetCode**: [Ramim1234](https://leetcode.com/u/Ramim1234/)
+- **HackerRank**: [mdramim201819](https://www.hackerrank.com/profile/mdramim201819)
 
 ---
 
@@ -106,11 +105,11 @@ Here's a quick look at my GitHub activity and contributions:
 
 ## 🔗 Professional Presence
 
-### **LinkedIn**: [Shafayet Ullah Ramim](https://linkedin.com/in/md-ramim)
+### **LinkedIn**: [Shafayet Ullah Ramim](https://www.linkedin.com/in/md-ramim-05976a237/)
 
-### **Twitter**: [@ramim2219](https://twitter.com/ramim2219)
+### **Twitter**: [@ramim2219](https://x.com/2219Ramim69667)
 
-### **LeetCode**: [ramim1234](https://leetcode.com/ramim1234)
+### **LeetCode**: [ramim1234](https://leetcode.com/u/Ramim1234/)
 
 ---
 
