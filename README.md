@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a passionate **Full Stack Web Developer** and an aspiring **Competitive Programmer** currently pursuing a **Bachelor of Science in Computer Science & Engineering**. I am dedicated to leveraging my skills in web development and programming to create impactful solutions and continually improve through competitive programming challenges.
 
-![Banner Image](https://via.placeholder.com/1200x300?text=Welcome+to+my+GitHub+profile)
+![Banner Image](https://www.w3schools.com/w3images/fjords.jpg)
 
 ---
 
