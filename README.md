@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Web Developer** and
 Feel free to reach out to me for collaborations, job opportunities, or technical discussions:
 
 - **Email**: [shafayet@ramim.tech](mailto:shafayet@ramim.tech)
-- **Portfolio**: [www.ramim.tech/](https://www.ramim.tech/)
+- **Portfolio**: [www.ramim.tech](https://www.ramim.tech/)
 - **LinkedIn**: [Shafayet Ullah Ramim](https://www.linkedin.com/in/shafayet-ramim/)
 - **Twitter**: [@ramim2219](https://x.com/2219Ramim69667)
 
